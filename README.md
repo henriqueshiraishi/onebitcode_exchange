@@ -1,24 +1,19 @@
-# README
+# One Bit Code - Exchange
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Aplicativo de conversão de moeda com a API Fixer.io.
 
-Things you may want to cover:
+O APP foi desenvolvido e composto pelo:
 
-* Ruby version
+* Docker e Docker Compose
 
-* System dependencies
+* Gem Rspec
 
-* Configuration
+* Gem Capybara
 
-* Database creation
+* Gem Bootstrap
 
-* Database initialization
+* Gem Rest-client
 
-* How to run the test suite
+* API Fixer.io
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* SASS e Coffee Script
