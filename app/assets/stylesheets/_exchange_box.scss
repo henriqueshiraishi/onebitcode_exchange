@@ -13,6 +13,16 @@
           color: #878d99;
           font-weight: 700;
         }
+        .image{
+          height: 50px;
+          margin-bottom: 10px;
+        }
+        .convert_active{
+          background-color: #d6d8dc;
+        }
+        .transition{
+          transition: 0.5s;
+        }
         .btn-exchange{
           background-color: #5bc0de;
           border-color: #5bc0de;
